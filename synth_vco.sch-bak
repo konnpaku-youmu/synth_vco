@@ -126,7 +126,7 @@ U 1 1 6075A079
 P 4200 1950
 F 0 "RV3" H 4150 2000 50  0000 R CNN
 F 1 "100k" H 4150 1900 50  0000 R CNN
-F 2 "Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical" H 4200 1950 50  0001 C CNN
+F 2 "Potentiometer_SMD:Potentiometer_Vishay_TS53YJ_Vertical" H 4200 1950 50  0001 C CNN
 F 3 "~" H 4200 1950 50  0001 C CNN
 	1    4200 1950
 	1    0    0    -1  
@@ -137,7 +137,7 @@ U 1 1 6075C8F6
 P 5750 1950
 F 0 "RV5" H 5690 1904 50  0000 R CNN
 F 1 "100k" H 5690 1995 50  0000 R CNN
-F 2 "Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical" H 5750 1950 50  0001 C CNN
+F 2 "Potentiometer_SMD:Potentiometer_Vishay_TS53YJ_Vertical" H 5750 1950 50  0001 C CNN
 F 3 "~" H 5750 1950 50  0001 C CNN
 	1    5750 1950
 	-1   0    0    1   
